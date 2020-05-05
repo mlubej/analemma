@@ -16,3 +16,10 @@ And here are some time-lapse animations of the analemma
 | ![img](figs/true_color_loc0.gif)  | ![img](figs/true_color_loc1.gif)  |
 | ![img](figs/true_color_loc2.gif)  | ![img](figs/true_color_loc3.gif)  |
 
+
+## Requirements
+
+- [`eo-learn`](https://github.com/sentinel-hub/eo-learn/tree/develop)
+- [`geopandas`](https://geopandas.org/)
+- [`geoplot`](https://residentmario.github.io/geoplot/index.html)
+- [`ephem`](https://pypi.org/project/ephem/)
