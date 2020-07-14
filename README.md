@@ -3,7 +3,7 @@
 This repo contains Jupyter Notebooks examples for downloading Sentinel-2 satellite imagery for 
 observing the effects of the analemma.
 
-The images from the notebooks were used in the following medium post: LINK
+The images from the notebooks were used in the following medium post: https://medium.com/sentinel-hub/the-shadow-of-a-celestial-dance-90968f1f42fb
 
 Here is the sketch of the analemma
 
